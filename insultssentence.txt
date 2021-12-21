@@ -1,0 +1,59 @@
+"dude my mom called me " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + " yesterday",
+
+"I dropped a pan of spaghetti and now my coworkers wont stop calling me " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(), 
+
+"Some grandma cut me off in traffic and called me " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
+
+"I ate all my mom's donuts and now she keeps calling me " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
+
+"Yeah man, I legally changed my name to " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + " yesterday",
+
+-----
+
+"I accidently slipped on an onion and now everybody at school calls me " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
+
+"I gave my neighbour the nickname " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + ", Pretty cool right?",
+
+"I named my starter pokemon " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
+
+"I found out my grandfather's real name is " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + ". I am devestated.",
+
+"The governement took my son away because I kept calling him  + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
+
+--------
+
+"The name of my next project will be " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() +  ", and yes thats exactly what you think it is.",
+
+"My postman keeps calling me " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + " and I dont know why",
+
+"The name of this new infection is " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() +  . I think you can already guess what it does
+
+"US politics? More like " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() +  "!",
+
+"I don't know the title of the song but the lyrics start with " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(), 
+
+"Did you see  + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + " yet? It's a new series on Netflix starring Daniel Craig.",
+
+"Did you know The Rock's actual name is " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + "?",
+
+"Joe Biden? OH you mean " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
+
+"Dude, McDonalds named their new burger " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() +  ". What a joke.",
+
+"My dog is actually a different breed called " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() +,
+
+"I wouldn't take the vaccine. Did you know they put " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + " in there?"
+
+"I am " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + "-sexual, you bigot.",
+
+-----
+
+"I wish I named my dog " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() +  ". It just sounds way better than Poopdollah.",
+
+"Instead of presidents they should put " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + " on the American dollar bills",
+
+"Please think for a second. You're doing it wrong you dumb, stupid " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
+
+"I'll give you a hint; It has something to do with " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold() + "...",
+
+"One of the scrapped ideas was Harry Potter and the " + insultArray[randomNum].bold() + " " + insultArray[randomNum2].bold(),
